@@ -31,4 +31,4 @@ That will start the app on localhost:3000
 ## Client side
 
 With cloning the repo you are also getting the bundled client side app. If you want to see the full source code of the client app.
-You can check the [repo](https://github.com/gregorojstersek/ReusableAutocomplete).
+You can check the [repo](https://github.com/gregorojstersek/reusable-autocomplete).
